@@ -1,1 +1,1 @@
-This is a basic calculator program to perform arithmatic tasks smoothly 
+This is a basic calculator program to perform arithmetic tasks smoothly. 
